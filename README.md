@@ -19,7 +19,6 @@ Estou em transição de carreira para o desenvolvimento de software, com foco em
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YrtZone&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YrtZone&layout=compact&langs_count=7&theme=cyberpunk"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=YrtZone&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YrtZone&layout=compact&langs_count=7&theme=cyberpunk)
