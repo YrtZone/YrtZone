@@ -20,6 +20,6 @@ Estou em transição de carreira para o desenvolvimento de software, com foco em
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YrtZone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YrtZone&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YrtZone&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
